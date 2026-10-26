@@ -28,6 +28,6 @@ house values are capped at 500k, which shows the limit of a linear model.
 - `housing_regression.ipynb` - main notebook with code, plots and conclusion
 - `housing.py` - same code as a Python script
 - `housing.txt` - dataset (CSV format)
-- `plot*.png` - saved plots
+- 
 
 ## How to run
