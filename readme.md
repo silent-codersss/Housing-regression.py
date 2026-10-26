@@ -25,7 +25,7 @@ and Lasso zeroes out weak features. Residuals fan out at higher prices, and
 house values are capped at 500k, which shows the limit of a linear model.
 
 ## Files
-- `housing_regression.ipynb` - main notebook with code, plots and conclusion
+- `housing_regression.py` - main notebook with code, plots and conclusion
 - `housing.py` - same code as a Python script
 - `housing.txt` - dataset (CSV format)
 - 
